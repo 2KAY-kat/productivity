@@ -1,0 +1,15 @@
+{
+    "name": "doquick | APP",
+    "short_name": "Doquick",
+    "start_url": ".",
+    "background_color": "#09002b",
+    "theme_color": "#1930ff",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "images/favicon.png",
+            "sizes": "250x250",
+            "type": "image/png"
+        }
+    ]
+}
