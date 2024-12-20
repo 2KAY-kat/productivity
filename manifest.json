@@ -3,7 +3,7 @@
     "short_name": "Doquick",
     "start_url": ".",
     "background_color": "#09002b",
-    "theme_color": "#1930ff",
+    "theme_color": "#464968",
     "display": "standalone",
     "icons": [
         {
